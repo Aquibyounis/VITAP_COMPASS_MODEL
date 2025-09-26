@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+rich
+sentence-transformers
+nltk
+duckduckgo-search
+langchain_chroma
+langchain_huggingface
+

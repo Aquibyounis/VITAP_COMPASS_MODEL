@@ -1,0 +1,117 @@
+Question,Model,Answer,Response Time (s),Similarity,Precision
+What is the difference between applying for leave through VTOP and applying for leave manually?,LLaMA,"Here's the step-by-step answer to the question:
+
+**Difference between Applying for Leave through VTOP and Applying for Leave Manually**
+
+The main difference between applying for leave through VTP and applying for leave manually is the process and steps involved in each method.
+
+**Applying for Leave through VTP:**
+
+1. Sign in to VTOP page with your credentials.
+2. Open the VTOP Menu on the left side of the page.
+3. Click on ""Hostels"" named drop down.
+4. Click on ""General Outing"" option.
+5. Complete the leave application process, wait for the approval of respective mentor and warden.
+
+**Applying for Leave Manually:**
+
+1. Mail to your mentor and get an approval from your respective mentor.
+2. Go to the respective warden's office and reach out to them by showing the approval mail from your mentor.
+3. Get a leave form to fill from the warden's office.
+4. Fill the leave form.
+
+**Key differences:**
+
+* Applying for leave through VTP is an online process, while applying for leave manually involves personal interaction with the warden and mentor.
+* The steps involved in each method are different, with VTP requiring a few clicks to complete the application process, whereas manual application requires more steps, including mailing and meeting with the warden.
+* Applying for leave through VTP provides an added layer of convenience and speed compared to manual application.",31.21,0.895,0.833
+"What are the restrictions for weekend outings on VTOP, and what happens if a student returns late?",LLaMA,"Based on the given procedures, here's the step-by-step answer:
+
+**Restrictions for Weekend Outings on VTP**
+
+1. The application for weekend outings can only be made between Sunday and Monday.
+2. There is a time limit of 6 hours for the outing.
+
+**Consequences of Returning Late**
+
+1. If a student returns late to the campus, their next 4 weeks' weekend outings will be cancelled by the respective warden.",13.24,0.562,0.625
+How can a student raise a complaint about hostel maintenance issues using VTOP?,LLaMA,"Here's the step-by-step procedure:
+
+To raise a complaint about hostel maintenance issues using VTOP:
+
+1. Sign in to your VTOP account.
+2. Open the VTOP Menu on the top left of the page.
+3. Click on the ""Feedback"" dropdown option under the menu.
+4. Select ""Complaint"" from the list of options.
+5. Click on the ""Apply Complaint"" button.
+6. Fill in the required information to describe the hostel maintenance issue you're experiencing.
+7. Submit your complaint.
+
+Once your complaint is resolved, you'll be able to view it in the below table and also provide feedback.",14.74,0.512,0.667
+Explain the steps to check your semester timetable on VTOP in simple words for a new student.,LLaMA,"Here are the simplified steps to check your semester timetable on VTOP:
+
+**Step 1: Sign in to VTOP**
+Log in to your VTOPl account using your credentials (username and password).
+
+**Step 2: Go to Academics Menu**
+Look at the top left corner of the screen. You'll see a dropdown menu with ""Academics"" option. Click on it.
+
+**Step 3: Select Time Table Option**
+From the drop-down menu, click on the ""Time Table"" option.
+
+**Step 4: Choose Your Semester**
+Now, you'll see another dropdown menu with different semesters (e.g., Spring, Summer, etc.). Select your semester from this list.
+
+**Step 5: View Your Timetable**
+After selecting your semester, you'll be able to view your timetable in a clear format, including venue, timings, and course codes. You can now plan your classes for the semester!",19.03,0.453,0.647
+"If VTOP does not allow me to apply for leave due to technical issues, what alternative method is available?",LLaMA,"Based on the given procedure, if VTOP does not allow you to apply for leave due to technical issues, an alternative method is not explicitly stated in the provided context. However, according to the manual procedure for applying for leave manually (steps 1-4), if you are facing any issue to get leave from VTP without access to the online system:
+
+1. Follow the manual steps to apply for leave.
+2. Mail your mentor and get an approval from your respective mentor.
+3. Reach out to the warden's office with the approval mail and obtain a leave form to fill manually.
+
+No alternative method is mentioned in the context, but you can follow these steps as an alternative approach if technical issues prevent you from using the online VTOP system.",16.06,0.773,0.833
+What is the difference between applying for leave through VTOP and applying for leave manually?,Mistral," The difference between applying for leave through VTOP and applying for leave manually is as follows:
+
+1. Applying for leave through VTOP:
+   - Sign in to VTOP page with your credentials.
+   - Open the VTO Menu on the left side of the page.
+   - Under the menu bar click on the Hostels named drop down.
+   - In that see for General Outing option and click on that.
+   - Complete the leave application process, wait for the approval of respective mentor and warden.
+
+2. Applying for leave manually:
+   - If you are facing any issue to get leave from VTOP, you can follow these steps.
+   - First mail to your mentor and get an approval from your respective mentor.
+   - Go to the respective warden's office and reach out to them by showing the approval mail from your mentor.
+   - Then the warden's will give you a leave form to fill and you can fill it out.
+
+In summary, the main difference lies in the method of application and the system used: VTOP for an online process and manual submission for offline processing.",53.94,0.893,0.833
+"What are the restrictions for weekend outings on VTOP, and what happens if a student returns late?",Mistral," The restrictions for weekend outings on VTOP are as follows:
+
+1. Application can only be made on Sunday and Monday.
+2. The duration of the outing can only be 6 hours.
+3. If a student is late to the campus, their next 4 weeks weekend outings will be cancelled by the respective wardens.
+4. Regarding transportation, the college provides transport for Vijayawada for outings.
+
+So, in summary, if a student returns late from a weekend outing, they will lose the privilege to apply for outings for the next 4 weeks.",28.09,0.584,0.75
+How can a student raise a complaint about hostel maintenance issues using VTOP?,Mistral," To raise a complaint about hostel maintenance issues using VTOP, follow these steps:
+
+1. Sign in to your VTOP account.
+2. Open the VTOP Menu on the top left of the page.
+3. In the menu, click on the dropdown named Feedback.
+4. From the Feedback options, select Apply Complaint.
+5. Fill in the required information regarding the maintenance issue you are facing in your hostel block.
+6. Submit the complaint for further action.",28.15,0.478,0.667
+Explain the steps to check your semester timetable on VTOP in simple words for a new student.,Mistral," 1. First, log into your VTOP account using your provided credentials.
+2. Look for the menu at the top left corner of the page and click on it.
+3. Inside the menu, find the 'Academics' dropdown and click on it.
+4. In the new options that appear, look for 'Time Table'. Click on it to proceed.
+5. You will see a dropdown for selecting semester. Click on it to choose your respective semester.
+6. After selecting the semester, you will be able to view your timetable with course details, professors' names, venue, and timings all clearly formatted for that specific semester.",30.79,0.437,0.588
+"If VTOP does not allow me to apply for leave due to technical issues, what alternative method is available?",Mistral," If VTOP does not allow you to apply for leave due to technical issues, you can follow the alternative manual procedure:
+
+1. Send an email to your mentor explaining the issue and requesting leave. Wait for their approval.
+2. Visit the respective warden's office and show them the approval mail from your mentor.
+3. The warden will provide you with a leave form to fill out manually.
+4. Fill out the leave form as required, and submit it back to the warden's office for further processing.",26.1,0.808,0.722
